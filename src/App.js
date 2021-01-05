@@ -55,7 +55,7 @@ const Image =({link, name})=>(
 const App =()=>(
   <>
     <header className="header-profile" >
-      <button className="dropbtn"> دسته بندی </button>
+      <button className="dropbtn"> انتخاب دسته بندی </button>
       <div className="profile">
          <div className="profile-text-header">
             <h1 className="title">{user.name}</h1>
